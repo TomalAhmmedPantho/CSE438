@@ -70,8 +70,8 @@
         <mxCell id="Y3XH7hVWkZ8ZVpy4iutj-30" value="Conv&lt;div&gt;1 × 1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="425" y="548" width="50" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Y3XH7hVWkZ8ZVpy4iutj-31" value="Avg pool&lt;div&gt;2 × 2&amp;nbsp;, stride 2&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="462.5" y="532.5" width="85" height="40" as="geometry" />
+        <mxCell id="Y3XH7hVWkZ8ZVpy4iutj-31" value="Avg Pool&lt;div&gt;2 × 2&amp;nbsp;, s=2&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="478.13" y="544.38" width="57.5" height="43.75" as="geometry" />
         </mxCell>
         <mxCell id="Y3XH7hVWkZ8ZVpy4iutj-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y3XH7hVWkZ8ZVpy4iutj-1" target="Y3XH7hVWkZ8ZVpy4iutj-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
